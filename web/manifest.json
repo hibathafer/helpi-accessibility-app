@@ -1,11 +1,11 @@
 {
-    "name": "flutter_application_1",
-    "short_name": "flutter_application_1",
+    "name": "HelpI",
+    "short_name": "HelpI",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Accessibility and urban mobility companion in Arabic and English.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

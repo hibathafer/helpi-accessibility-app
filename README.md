@@ -10,6 +10,28 @@ Built with **Flutter + Dart**, **Clean Architecture** and **flutter_bloc**.
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/login.png" alt="Sign in" width="220"><br><sub><b>Sign in</b></sub></td>
+    <td align="center"><img src="screenshots/dashboard.png" alt="Dashboard" width="220"><br><sub><b>Dashboard</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/map.png" alt="Accessibility map" width="220"><br><sub><b>Accessibility map</b></sub></td>
+    <td align="center"><img src="screenshots/place-details.png" alt="Place details" width="220"><br><sub><b>Place details</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/services.png" alt="Services" width="220"><br><sub><b>Services</b></sub></td>
+    <td align="center"><img src="screenshots/profile.png" alt="Profile &amp; language switch" width="220"><br><sub><b>Profile · language switch</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="screenshots/dashboard-arabic.png" alt="Arabic RTL dashboard" width="220"><br><sub><b>العربية — full RTL mirror</b></sub></td>
+  </tr>
+</table>
+
+---
+
 ## Why HelpI
 
 A ramp that isn't there, a lift that is out of service, a "step-free" entrance
